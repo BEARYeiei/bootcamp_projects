@@ -11,6 +11,7 @@ We learn 10 sprints during 4 month program.
 * 🍕Order pizza_chatbot in R = https://replit.com/@bearywannabeda/HomerorkOrderPizza#main.r
 * ✊🏻Pao-Ying-Chub Game in R = https://replit.com/@bearywannabeda/PAO-YING-CHUB#main.r
 - Data Tranformation
+`https://datalore.jetbrains.com/view/notebook/y1bpBy8vq4T8tBrAHS07pd`
 - Data Visualization
 - Statistics
 - Intro to Classical Machine Learning
